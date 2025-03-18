@@ -1,7 +1,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gladiarn&label=Profile%20views&color=0e75b6&style=flat" alt="gladiarn" /> </p>
 
-<img align="right" height="300" src="./asset/github-header-image (1).png">
+<img align="right" height="300" src="./asset/github-header-image (2).png">
+<br/>
+
+
 - 🌱 I’m currently learning **NextJs, TypeScript, TailwindCSS, C#**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gladiarn?tab=repositories](https://github.com/Gladiarn?tab=repositories)
