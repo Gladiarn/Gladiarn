@@ -5,7 +5,7 @@
 <br/>
 <br/>
 
-- 🌱 I’m currently learning **NextJs, TypeScript, TailwindCSS, C#**
+- 🌱 I’m currently learning **C# and other Backend Related Skills**
 - 👨‍💻 All of my projects are available at [https://github.com/Gladiarn?tab=repositories](https://github.com/Gladiarn?tab=repositories)
 - 💬 Ask me about **React, NextJs, JavaScript**
 - 📫 How to reach me **bulilaniannecarl@gmail.com**
