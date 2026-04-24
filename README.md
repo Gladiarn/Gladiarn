@@ -1,6 +1,23 @@
-# 💫 About Ianne Carl Bulilan:
-💼 I’m Working on My Portfolio, EcoCycle IMS, and an AI Assisted Resume Builder  <br>📓 I’m learning C#, DevOps, and Improving my Backend Skills  <br>⌨️ Ask me about React, NextJs, JavaScript  <br>🗃️ How to reach me bulilaniannecarl@gmail.com  <br>⚫ Look at my Portfolio  https://ianneportfolio.vercel.app/
+### 💫 About Ianne Carl Bulilan:
+💼 **Currently Architecting:** Building a professional "Copy-Paste" React Component Library, EcoCycle IMS, and an AI-Assisted Resume Builder.  
+📓 **Deep Dive:** Mastering **Agentic AI Orchestration**, Advanced DevOps (CI/CD Pipelines), and Backend Optimization.  
+⌨️ **Expertise:** Ask me about building scalable SaaS with **Next.js/React**, Agentic CLI tooling (NTM), and minimalist modern design systems.  
+🗃️ **Connect:** [bulilaniannecarl@gmail.com](mailto:bulilaniannecarl@gmail.com)  
+⚫ **Portfolio:** [ianneportfolio.vercel.app](https://ianneportfolio.vercel.app/)
 
+---
+
+### 💻 Core Tech Stack:
+
+**Frontend & Design Systems**
+![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC?logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E?logo=figma&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?logo=radix-ui&logoColor=white)
+
+**Backend & Architecture**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white)
+
+**Agentic & Automation Tools**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) 
+> *Active focus on Agentic Orchestration, AI-driven CLI development, and Monorepo architectures.*
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ianne.carl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ianne-carl-bulilan-321421349) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@IanneTG) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@IanneTG) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bulilaniannecarl@gmail.com) 
