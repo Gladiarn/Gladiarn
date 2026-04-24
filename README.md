@@ -3,7 +3,7 @@
 📓 **Deep Dive:** Mastering **Agentic AI Orchestration**, Advanced DevOps (CI/CD Pipelines), and Backend Optimization.  
 ⌨️ **Expertise:** Ask me about building scalable SaaS with **Next.js/React**, Agentic CLI tooling (NTM), and minimalist modern design systems.  
 🗃️ **Connect:** [bulilaniannecarl@gmail.com](mailto:bulilaniannecarl@gmail.com)  
-⚫ **Portfolio:** [ianneportfolio.vercel.app](https://ianneportfolio.vercel.app/)
+⚫ **Portfolio:** [ianneportfolio.vercel.app](https://ianne-portfolio.vercel.app/)
 
 ---
 
