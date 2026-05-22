@@ -6,6 +6,10 @@
 🗃️ **Connect:** [bulilaniannecarl@gmail.com](mailto:bulilaniannecarl@gmail.com)  
 ⚫ **Portfolio:** [ianne-portfolio.vercel.app](https://ianne-portfolio.vercel.app/)
 
+### **Recent Projects:**
+**SnapJSX:** [snapjsx.vercel.app](https://snapjsx.vercel.app/)
+**BriefCV(ongoing):** [briefcv.vercel.app](https://briefcv.vercel.app/) 
+
 ---
 
 ### 💻 Core Tech Stack:
