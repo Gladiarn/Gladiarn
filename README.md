@@ -4,16 +4,16 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=220&section=header&text=Ianne%20Carl%20Bulilan&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descSize=20&descAlignY=60&animation=fadeIn" alt="Ianne Carl Bulilan" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=7AA2F7&center=true&vCenter=true&width=640&height=40&lines=I+build+websites%2C+end+to+end+%F0%9F%9B%A0%EF%B8%8F;Figma+%E2%86%92+Frontend+%E2%86%92+Backend+%E2%86%92+Database;Next.js+%C2%B7+Tailwind+%C2%B7+Node.js+%C2%B7+PostgreSQL;Landing+pages%2C+SaaS%2C+CRMs%2C+e-commerce+%26+more+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=7AA2F7&center=true&vCenter=true&width=640&height=40&lines=I+build+websites%2C+end+to+end;Figma+%E2%86%92+Frontend+%E2%86%92+Backend+%E2%86%92+Database;Next.js+%C2%B7+Tailwind+%C2%B7+Node.js+%C2%B7+PostgreSQL;Landing+pages%2C+SaaS%2C+CRMs%2C+e-commerce+%26+more" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ianne--portfolio.vercel.app-7AA2F7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1b27)](https://ianne-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27)](https://linkedin.com/in/ianne-carl-bulilan-321421349)
-[![Email](https://img.shields.io/badge/Email-Say%20hi-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27)](mailto:bulilaniannecarl@gmail.com)
-![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to-Work%20%26%20Recruitment-2ea44f?style=for-the-badge&labelColor=1a1b27)
-![Profile Views](https://komarev.com/ghpvc/?username=Gladiarn&label=Profile+Views&color=7AA2F7&style=for-the-badge&labelColor=1a1b27)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ianne--portfolio.vercel.app-24283b?style=for-the-badge&logo=vercel&logoColor=7AA2F7&labelColor=1a1b27)](https://ianne-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-24283b?style=for-the-badge&logo=linkedin&logoColor=7AA2F7&labelColor=1a1b27)](https://linkedin.com/in/ianne-carl-bulilan-321421349)
+[![Email](https://img.shields.io/badge/Email-Say%20hi-24283b?style=for-the-badge&logo=gmail&logoColor=7AA2F7&labelColor=1a1b27)](mailto:bulilaniannecarl@gmail.com)
+![Open to Work](https://img.shields.io/badge/Open%20to-Work%20%26%20Recruitment-7AA2F7?style=for-the-badge&labelColor=1a1b27)
+![Profile Views](https://komarev.com/ghpvc/?username=Gladiarn&label=Profile+Views&color=24283b&style=for-the-badge&labelColor=1a1b27)
 
 </div>
 
@@ -26,7 +26,7 @@ const ianne = {
   name: "Ianne Carl Z. Bulilan",
   role: "Full-Stack Web Developer",
   currently: "Full-Stack Developer @ KPVE (Remote)",
-  based: "Leyte, Philippines 🇵🇭",
+  based: "Leyte, Philippines",
   education: "BSIT — AMA Computer Learning Center (2025)",
   strongestAt: ["Next.js", "Tailwind CSS", "Node.js"],
   database: ["PostgreSQL", "Supabase", "Neon", "Prisma", "MongoDB"],
@@ -38,51 +38,51 @@ const ianne = {
 
 <!-- ═══════════════ WORKFLOW ═══════════════ -->
 
-## 🔁 How I Build
+## `~/workflow`
 
 I take a website from **design file to production** on my own: pixel-accurate frontend, the API behind it, the database underneath, and the deploy.
 
 ```mermaid
 flowchart LR
-    A["🎨 Figma<br/>Design"] --> B["⚛️ Frontend<br/>Next.js · Tailwind · shadcn/ui"]
-    B --> C["⚙️ Backend<br/>Node.js · Express · Django · Laravel"]
-    C --> D["🗄️ Database<br/>PostgreSQL · Supabase · Neon · Prisma"]
-    D --> E["🚀 Deploy<br/>Vercel · CI/CD"]
+    A["Figma<br/>Design"] --> B["Frontend<br/>Next.js · Tailwind · shadcn/ui"]
+    B --> C["Backend<br/>Node.js · Express · Django · Laravel"]
+    C --> D["Database<br/>PostgreSQL · Supabase · Neon · Prisma"]
+    D --> E["Deploy<br/>Vercel · CI/CD"]
 ```
 
 **Websites I build:** landing pages · e-commerce & storefronts · portfolios · SaaS apps · CRMs & dashboards · booking systems · AI chatbots · component libraries
 
 <!-- ═══════════════ PROJECTS ═══════════════ -->
 
-## 🚀 Featured Projects
+## `~/projects`
 
 | Project | What it does | Built with | Links |
 |---|---|---|---|
-| **🧩 SnapJSX** | Minimalist, high-performance JSX component library with a root-level architecture built for rapid integration and agentic enablement | `Next.js` `TypeScript` `Tailwind` `CLI AI Agents` | [Live](https://snapjsx.vercel.app/) |
-| **📄 BriefCV** | AI-powered resume builder that optimizes profiles for ATS alignment and market impact; dual-token JWT rotation with Google OAuth | `Next.js 15` `TypeScript` `MongoDB` `Zustand` `OAuth 2.0` | [Live](https://briefcv.vercel.app/) |
-| **🐛 Theebug** | VS Code-styled, drag-and-drop coding game — fix broken code across 7 language tracks with difficulty-weighted scoring, a GitHub OAuth leaderboard and an AI mascot coach | `Full-Stack` `GitHub OAuth` `AI Coaching` | — |
-| **🏝️ TourConnect** | Travel platform with hotel booking, role-based access, JWT (access + refresh) and an AI chatbot *(Capstone)* | `Next.js` `Express` `MongoDB` `shadcn/ui` | — |
-| **🚐 TourVan** | Cloud-based van tour booking with real-time GPS, seat tracking and location autocomplete *(Capstone)* | `React` `Node.js` `MongoDB` `Leaflet.js` | — |
-| **🧠 DepHelp** | Assessment platform with Google auth, dynamic questionnaires, real-time scoring and personalized results | `Next.js` `NextAuth` `Mongoose` `Tailwind` | — |
+| **SnapJSX** | Minimalist, high-performance JSX component library with a root-level architecture built for rapid integration and agentic enablement | `Next.js` `TypeScript` `Tailwind` `CLI AI Agents` | [Live](https://snapjsx.vercel.app/) |
+| **BriefCV** | AI-powered resume builder that optimizes profiles for ATS alignment and market impact; dual-token JWT rotation with Google OAuth | `Next.js 15` `TypeScript` `MongoDB` `Zustand` `OAuth 2.0` | [Live](https://briefcv.vercel.app/) |
+| **Theebug** | VS Code-styled, drag-and-drop coding game — fix broken code across 7 language tracks with difficulty-weighted scoring, a GitHub OAuth leaderboard and an AI mascot coach | `Full-Stack` `GitHub OAuth` `AI Coaching` | — |
+| **TourConnect** | Travel platform with hotel booking, role-based access, JWT (access + refresh) and an AI chatbot *(Capstone)* | `Next.js` `Express` `MongoDB` `shadcn/ui` | — |
+| **TourVan** | Cloud-based van tour booking with real-time GPS, seat tracking and location autocomplete *(Capstone)* | `React` `Node.js` `MongoDB` `Leaflet.js` | — |
+| **DepHelp** | Assessment platform with Google auth, dynamic questionnaires, real-time scoring and personalized results | `Next.js` `NextAuth` `Mongoose` `Tailwind` | — |
 
 <!-- ═══════════════ CURRENT ═══════════════ -->
 
-## 💼 Currently
+## `~/now`
 
 **Full-Stack Developer @ KPVE** · *Jun 2026 – Present · Remote*
 
 Building a large multi-portal web platform (Laravel + Next.js on Vercel & Railway), plus client landing pages and CRMs on the side.
 
-| | What I've shipped |
+| Area | What I've shipped |
 |---|---|
-| 💳 | Booking flows with **Stripe** payments and automated **Zoom** meeting provisioning |
-| 🔌 | Government and third-party **API integrations** (Medicare Online, PRODA) |
-| 🗂️ | Staff dashboard / CRM with PDF generation and a **WebSocket** real-time messenger |
-| 🔐 | Role-based access control across **4 portals**: patient · doctor · staff · admin |
+| **Payments** | Booking flows with **Stripe** and automated **Zoom** meeting provisioning |
+| **Integrations** | Government and third-party **API integrations** (Medicare Online, PRODA) |
+| **Dashboard** | Staff CRM with PDF generation and a **WebSocket** real-time messenger |
+| **Security** | Role-based access control across **4 portals**: patient · doctor · staff · admin |
 
 <!-- ═══════════════ TIMELINE ═══════════════ -->
 
-## 🧭 Journey
+## `~/timeline`
 
 ```mermaid
 timeline
@@ -97,7 +97,7 @@ timeline
 ```
 
 <details>
-<summary><b>📂 Experience details</b> (click to expand)</summary>
+<summary><b>Experience details</b></summary>
 <br/>
 
 **Full-Stack Developer — KPVE** · 06/2026 – Present
@@ -116,7 +116,7 @@ Figma-to-Next.js conversion with Tailwind, shadcn/ui and TypeScript; Server Comp
 
 <!-- ═══════════════ STACK ═══════════════ -->
 
-## 🛠️ Tech Stack
+## `~/stack`
 
 **Frontend & Design** &nbsp;·&nbsp; *strongest: Next.js, Tailwind CSS*
 <br/>
@@ -133,7 +133,6 @@ Figma-to-Next.js conversion with Tailwind, shadcn/ui and TypeScript; Server Comp
 **Databases & ORMs**
 <br/>
 <img src="https://skillicons.dev/icons?i=postgres,supabase,prisma,mongodb,mysql,sqlite,redis&theme=dark" alt="Databases" />
-<img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black" alt="Neon" height="48" />
 <br/>
 <sub>PostgreSQL · Supabase · Neon · Prisma ORM · Django ORM · Schema design</sub>
 
@@ -145,15 +144,15 @@ Figma-to-Next.js conversion with Tailwind, shadcn/ui and TypeScript; Server Comp
 
 <!-- ═══════════════ AWARDS ═══════════════ -->
 
-## 🏆 Recognition
+## `~/awards`
 
-- 🥇 **Best in HTML5 & CSS**
-- 🥇 **Best in Web Development**
-- 🥇 **Best Capstone Presenter** — *Cloud-based Van Travel and Tours Tracking and Monitoring System*
+- **Best in HTML5 & CSS**
+- **Best in Web Development**
+- **Best Capstone Presenter** — *Cloud-based Van Travel and Tours Tracking and Monitoring System*
 
 <!-- ═══════════════ STATS ═══════════════ -->
 
-## 📊 GitHub Analytics
+## `~/stats`
 
 <!--
   These cards are generated by the GitHub Action in
@@ -178,26 +177,26 @@ Figma-to-Next.js conversion with Tailwind, shadcn/ui and TypeScript; Server Comp
 
 <!-- ═══════════════ CONNECT ═══════════════ -->
 
-## 🟢 Open to Opportunities
+## `~/open-to-work`
 
 I'm open to **recruitment and hiring conversations** for full-stack, frontend-leaning or Next.js/Node.js roles, and also take on **freelance projects** and **collaborations**.
 
 | Best way to reach me | |
 |---|---|
-| 📧 Email | [bulilaniannecarl@gmail.com](mailto:bulilaniannecarl@gmail.com) |
-| 💼 LinkedIn | [ianne-carl-bulilan](https://linkedin.com/in/ianne-carl-bulilan-321421349) |
-| 🌐 Portfolio | [ianne-portfolio.vercel.app](https://ianne-portfolio.vercel.app/) |
+| Email | [bulilaniannecarl@gmail.com](mailto:bulilaniannecarl@gmail.com) |
+| LinkedIn | [ianne-carl-bulilan](https://linkedin.com/in/ianne-carl-bulilan-321421349) |
+| Portfolio | [ianne-portfolio.vercel.app](https://ianne-portfolio.vercel.app/) |
 
-## 📬 Let's Connect
+## `~/contact`
 
 <p align="center">
-  <a href="https://linkedin.com/in/ianne-carl-bulilan-321421349"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/Gladiarn"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://x.com/@IanneTG"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" /></a>
-  <a href="https://facebook.com/ianne.carl"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="mailto:bulilaniannecarl@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/ianne-carl-bulilan-321421349"><img src="https://img.shields.io/badge/-LinkedIn-24283b?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" alt="LinkedIn" /></a>
+  <a href="https://github.com/Gladiarn"><img src="https://img.shields.io/badge/-GitHub-24283b?style=for-the-badge&logo=github&logoColor=7AA2F7" alt="GitHub" /></a>
+  <a href="https://x.com/@IanneTG"><img src="https://img.shields.io/badge/-X-24283b?style=for-the-badge&logo=x&logoColor=7AA2F7" alt="X" /></a>
+  <a href="https://facebook.com/ianne.carl"><img src="https://img.shields.io/badge/-Facebook-24283b?style=for-the-badge&logo=facebook&logoColor=7AA2F7" alt="Facebook" /></a>
+  <a href="mailto:bulilaniannecarl@gmail.com"><img src="https://img.shields.io/badge/-Email-24283b?style=for-the-badge&logo=gmail&logoColor=7AA2F7" alt="Email" /></a>
 </p>
 
-<p align="center"><i>💬 Ask me about full-stack Next.js apps, Tailwind design systems, Node.js backends, or Postgres setups with Supabase, Neon and Prisma.</i></p>
+<p align="center"><i>Ask me about full-stack Next.js apps, Tailwind design systems, Node.js backends, or Postgres setups with Supabase, Neon and Prisma.</i></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=110&section=footer" alt="footer" width="100%" />
