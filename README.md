@@ -162,15 +162,15 @@ Figma-to-Next.js conversion with Tailwind, shadcn/ui and TypeScript; Server Comp
   Run the workflow once (Actions tab → Run workflow) to create them.
 -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" width="48%" />
   <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" width="48%" />
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per Language" width="48%" />
   <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Used Languages" width="48%" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Gladiarn&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
