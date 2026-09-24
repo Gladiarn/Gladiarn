@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=220&section=header&text=Ianne%20Carl%20Bulilan&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descSize=20&descAlignY=60&animation=fadeIn" alt="Ianne Carl Bulilan" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=7AA2F7&center=true&vCenter=true&width=640&height=40&lines=Building+telehealth+platforms+that+ship+%F0%9F%A9%BA;Next.js+%C2%B7+Laravel+%C2%B7+TypeScript+%C2%B7+Django;Agentic+AI+%C3%97+CLI+workflows+%F0%9F%A4%96;Figma+%E2%86%92+Vercel%2C+end+to+end+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=7AA2F7&center=true&vCenter=true&width=640&height=40&lines=I+build+websites%2C+end+to+end+%F0%9F%9B%A0%EF%B8%8F;Figma+%E2%86%92+Frontend+%E2%86%92+Backend+%E2%86%92+Database;Next.js+%C2%B7+Tailwind+%C2%B7+Node.js+%C2%B7+PostgreSQL;Landing+pages%2C+SaaS%2C+CRMs%2C+e-commerce+%26+more+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -12,6 +12,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-ianne--portfolio.vercel.app-7AA2F7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1b27)](https://ianne-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27)](https://linkedin.com/in/ianne-carl-bulilan-321421349)
 [![Email](https://img.shields.io/badge/Email-Say%20hi-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27)](mailto:bulilaniannecarl@gmail.com)
+![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to-Work%20%26%20Recruitment-2ea44f?style=for-the-badge&labelColor=1a1b27)
+![Profile Views](https://komarev.com/ghpvc/?username=Gladiarn&label=Profile+Views&color=7AA2F7&style=for-the-badge&labelColor=1a1b27)
 
 </div>
 
@@ -23,29 +25,32 @@
 const ianne = {
   name: "Ianne Carl Z. Bulilan",
   role: "Full-Stack Web Developer",
-  currently: "KPVE — building the DOC On Call telehealth platform (Remote)",
+  currently: "Full-Stack Developer @ KPVE (Remote)",
   based: "Leyte, Philippines 🇵🇭",
   education: "BSIT — AMA Computer Learning Center (2025)",
-  stack: ["Next.js", "React", "TypeScript", "Laravel", "Django", "Node.js", "PostgreSQL", "MongoDB"],
-  workflow: "Figma → PR review → CI/CD → Vercel",
+  strongestAt: ["Next.js", "Tailwind CSS", "Node.js"],
+  database: ["PostgreSQL", "Supabase", "Neon", "Prisma", "MongoDB"],
+  workflow: "Figma → Frontend → Backend + DB → Vercel",
   exploring: ["Agentic AI orchestration", "CLI-driven AI workflows", "Backend optimization"],
-  openTo: "Freelance projects & collaborations",
+  openTo: ["Recruitment & full-time roles", "Freelance projects", "Collaborations"],
 } as const;
 ```
 
-<!-- ═══════════════ NOW ═══════════════ -->
+<!-- ═══════════════ WORKFLOW ═══════════════ -->
 
-## 🩺 What I'm Building Now
+## 🔁 How I Build
 
-**Fullstack Web Developer @ KPVE** · *Jun 2026 – Present · Remote*
-Shipping **DOC On Call**, a self-hosted Australian telehealth platform (Laravel + Next.js on Vercel & Railway) that removes the need for third-party EHR systems.
+I take a website from **design file to production** on my own: pixel-accurate frontend, the API behind it, the database underneath, and the deploy.
 
-| | Highlight |
-|---|---|
-| 📅 | Multi-channel booking across clinical categories with **Stripe** payments and automated **Zoom** provisioning |
-| 🏛️ | Direct integration with Services Australia via **Medicare Online & PRODA** APIs — real-time eligibility checks and Bulk Bill claims |
-| 🗂️ | Staff CRM with clinical notes, vitals, PDF generation, **AHPRA** tracking and a **WebSocket** real-time messenger |
-| 🔐 | Role-based access control across **4 portals**: patient · doctor · staff · admin |
+```mermaid
+flowchart LR
+    A["🎨 Figma<br/>Design"] --> B["⚛️ Frontend<br/>Next.js · Tailwind · shadcn/ui"]
+    B --> C["⚙️ Backend<br/>Node.js · Express · Django · Laravel"]
+    C --> D["🗄️ Database<br/>PostgreSQL · Supabase · Neon · Prisma"]
+    D --> E["🚀 Deploy<br/>Vercel · CI/CD"]
+```
+
+**Websites I build:** landing pages · e-commerce & storefronts · portfolios · SaaS apps · CRMs & dashboards · booking systems · AI chatbots · component libraries
 
 <!-- ═══════════════ PROJECTS ═══════════════ -->
 
@@ -58,7 +63,22 @@ Shipping **DOC On Call**, a self-hosted Australian telehealth platform (Laravel 
 | **🐛 Theebug** | VS Code-styled, drag-and-drop coding game — fix broken code across 7 language tracks with difficulty-weighted scoring, a GitHub OAuth leaderboard and an AI mascot coach | `Full-Stack` `GitHub OAuth` `AI Coaching` | — |
 | **🏝️ TourConnect** | Travel platform with hotel booking, role-based access, JWT (access + refresh) and an AI chatbot *(Capstone)* | `Next.js` `Express` `MongoDB` `shadcn/ui` | — |
 | **🚐 TourVan** | Cloud-based van tour booking with real-time GPS, seat tracking and location autocomplete *(Capstone)* | `React` `Node.js` `MongoDB` `Leaflet.js` | — |
-| **🧠 DepHelp** | Depression assessment platform with Google auth, dynamic questionnaires, real-time scoring and personalized results | `Next.js` `NextAuth` `Mongoose` `Tailwind` | — |
+| **🧠 DepHelp** | Assessment platform with Google auth, dynamic questionnaires, real-time scoring and personalized results | `Next.js` `NextAuth` `Mongoose` `Tailwind` | — |
+
+<!-- ═══════════════ CURRENT ═══════════════ -->
+
+## 💼 Currently
+
+**Full-Stack Developer @ KPVE** · *Jun 2026 – Present · Remote*
+
+Building a large multi-portal web platform (Laravel + Next.js on Vercel & Railway), plus client landing pages and CRMs on the side.
+
+| | What I've shipped |
+|---|---|
+| 💳 | Booking flows with **Stripe** payments and automated **Zoom** meeting provisioning |
+| 🔌 | Government and third-party **API integrations** (Medicare Online, PRODA) |
+| 🗂️ | Staff dashboard / CRM with PDF generation and a **WebSocket** real-time messenger |
+| 🔐 | Role-based access control across **4 portals**: patient · doctor · staff · admin |
 
 <!-- ═══════════════ TIMELINE ═══════════════ -->
 
@@ -73,15 +93,15 @@ timeline
          : Freelance Full-Stack Developer
     2026 : Independent Contractor — AI-integrated web apps
          : Shipped SnapJSX and BriefCV
-         : Fullstack Web Developer — KPVE
+         : Full-Stack Developer — KPVE
 ```
 
 <details>
 <summary><b>📂 Experience details</b> (click to expand)</summary>
 <br/>
 
-**Fullstack Web Developer — KPVE** · 06/2026 – Present
-Telehealth platform, Medicare/PRODA integrations, Stripe + Zoom booking, clinical CRM, 4-portal RBAC, client landing pages and CRMs.
+**Full-Stack Developer — KPVE** · 06/2026 – Present
+Multi-portal platform with Stripe + Zoom booking, third-party API integrations, staff CRM, real-time messaging, 4-portal RBAC, and client landing pages and CRMs.
 
 **Full-Stack Developer — Independent Contractor** · 01/2026 – 07/2026
 E-commerce sites, portfolios, CRMs and storefronts with React, Next.js, Django and Tailwind. Automated complex system logic with Claude Code, the Gemini API and CLI-driven AI workflows. Figma → Vercel deployments with strict CI/CD.
@@ -98,23 +118,24 @@ Figma-to-Next.js conversion with Tailwind, shadcn/ui and TypeScript; Server Comp
 
 ## 🛠️ Tech Stack
 
-**Frontend & Design**
+**Frontend & Design** &nbsp;·&nbsp; *strongest: Next.js, Tailwind CSS*
 <br/>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma&theme=dark" alt="Frontend" />
 <br/>
 <sub>Zustand · shadcn/ui · Framer Motion · TanStack Query · Radix UI · Component-Driven Development</sub>
 
-**Backend & APIs**
+**Backend & APIs** &nbsp;·&nbsp; *strongest: Node.js*
 <br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,django,laravel,php,cs,dotnet,graphql&theme=dark" alt="Backend" />
 <br/>
 <sub>REST · GraphQL · JWT auth · WebSockets · Entity Framework</sub>
 
-**Databases**
+**Databases & ORMs**
 <br/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,supabase,prisma,redis&theme=dark" alt="Databases" />
+<img src="https://skillicons.dev/icons?i=postgres,supabase,prisma,mongodb,mysql,sqlite,redis&theme=dark" alt="Databases" />
+<img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black" alt="Neon" height="48" />
 <br/>
-<sub>Schema design · Prisma ORM · Django ORM</sub>
+<sub>PostgreSQL · Supabase · Neon · Prisma ORM · Django ORM · Schema design</sub>
 
 **DevOps & Tooling**
 <br/>
@@ -134,24 +155,38 @@ Figma-to-Next.js conversion with Tailwind, shadcn/ui and TypeScript; Server Comp
 
 ## 📊 GitHub Analytics
 
+<!--
+  These cards are generated by the GitHub Action in
+  .github/workflows/profile-summary-cards.yml and saved INSIDE this repo,
+  so they can't break from a third-party API outage or rate limit.
+  Run the workflow once (Actions tab → Run workflow) to create them.
+-->
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gladiarn&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" width="48%" />
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gladiarn&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" width="48%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Gladiarn&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per Language" width="48%" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Used Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gladiarn&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="60%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gladiarn&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=Gladiarn&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
 </p>
 
 <!-- ═══════════════ CONNECT ═══════════════ -->
+
+## 🟢 Open to Opportunities
+
+I'm open to **recruitment and hiring conversations** for full-stack, frontend-leaning or Next.js/Node.js roles, and also take on **freelance projects** and **collaborations**.
+
+| Best way to reach me | |
+|---|---|
+| 📧 Email | [bulilaniannecarl@gmail.com](mailto:bulilaniannecarl@gmail.com) |
+| 💼 LinkedIn | [ianne-carl-bulilan](https://linkedin.com/in/ianne-carl-bulilan-321421349) |
+| 🌐 Portfolio | [ianne-portfolio.vercel.app](https://ianne-portfolio.vercel.app/) |
 
 ## 📬 Let's Connect
 
@@ -163,10 +198,6 @@ Figma-to-Next.js conversion with Tailwind, shadcn/ui and TypeScript; Server Comp
   <a href="mailto:bulilaniannecarl@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<p align="center"><i>💬 Ask me about telehealth integrations, scalable SaaS with Next.js, or agentic CLI workflows.</i></p>
-
-<p align="right">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Gladiarn&icon=5&color=8" alt="Visitor Count" /></a>
-</p>
+<p align="center"><i>💬 Ask me about full-stack Next.js apps, Tailwind design systems, Node.js backends, or Postgres setups with Supabase, Neon and Prisma.</i></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=110&section=footer" alt="footer" width="100%" />
