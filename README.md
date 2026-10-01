@@ -60,7 +60,7 @@ flowchart LR
 |---|---|---|---|
 | **SnapJSX** | Minimalist, high-performance JSX component library with a root-level architecture built for rapid integration and agentic enablement | `Next.js` `TypeScript` `Tailwind` `CLI AI Agents` | [Live](https://snapjsx.vercel.app/) |
 | **BriefCV** | AI-powered resume builder that optimizes profiles for ATS alignment and market impact; dual-token JWT rotation with Google OAuth | `Next.js 15` `TypeScript` `MongoDB` `Zustand` `OAuth 2.0` | [Live](https://briefcv.vercel.app/) |
-| **Theebug** | VS Code-styled, drag-and-drop coding game — fix broken code across 7 language tracks with difficulty-weighted scoring, a GitHub OAuth leaderboard and an AI mascot coach | `Full-Stack` `GitHub OAuth` `AI Coaching` | — |
+| **Theebug** | VS Code-styled, drag-and-drop coding game — fix broken code across 7 language tracks with difficulty-weighted scoring, a GitHub OAuth leaderboard and an AI mascot coach | `Full-Stack` `GitHub OAuth` `AI Coaching` | [Live](https://www.theebug.cc.cd/) |
 | **TourConnect** | Travel platform with hotel booking, role-based access, JWT (access + refresh) and an AI chatbot *(Capstone)* | `Next.js` `Express` `MongoDB` `shadcn/ui` | — |
 | **TourVan** | Cloud-based van tour booking with real-time GPS, seat tracking and location autocomplete *(Capstone)* | `React` `Node.js` `MongoDB` `Leaflet.js` | — |
 | **DepHelp** | Assessment platform with Google auth, dynamic questionnaires, real-time scoring and personalized results | `Next.js` `NextAuth` `Mongoose` `Tailwind` | — |
