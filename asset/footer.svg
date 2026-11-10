@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="190" viewBox="0 0 1280 190" role="img" aria-label="&lt;/Portfolio&gt;">
+  <style>
+    .mono{font-family:"Geist Mono","SF Mono",ui-monospace,Menlo,Consolas,monospace}
+    .ink{fill:#121417}.faint{fill:#868d97}.dim{fill:#b4bac2}.acc{fill:#2f66c9}
+    @media (prefers-color-scheme: dark){.ink{fill:#e8eaed}.faint{fill:#79808a}.dim{fill:#4c5463}.acc{fill:#7eaaf0}}
+    .caret{animation:blink 1.1s steps(1) infinite}
+    @keyframes blink{60%{opacity:0}}
+    @media (prefers-reduced-motion: reduce){.caret{animation:none}}
+  </style>
+  <g class="mono">
+    <text x="58" y="78" class="faint" font-size="16" text-anchor="end">418</text>
+    <text x="58" y="148" class="faint" font-size="16" text-anchor="end">419</text>
+    <text x="96" y="150" font-size="128" textLength="880" lengthAdjust="spacingAndGlyphs"><tspan class="dim">&lt;/</tspan><tspan class="ink">Portfolio</tspan><tspan class="dim">&gt;</tspan></text>
+    <rect x="996" y="44" width="8" height="116" class="acc caret"/>
+  </g>
+</svg>

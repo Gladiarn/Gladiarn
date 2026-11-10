@@ -1,202 +1,150 @@
-<!-- ═══════════════ HEADER ═══════════════ -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=220&section=header&text=Ianne%20Carl%20Bulilan&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descSize=20&descAlignY=60&animation=fadeIn" alt="Ianne Carl Bulilan" width="100%" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=7AA2F7&center=true&vCenter=true&width=640&height=40&lines=I+build+websites%2C+end+to+end;Figma+%E2%86%92+Frontend+%E2%86%92+Backend+%E2%86%92+Database;Next.js+%C2%B7+Tailwind+%C2%B7+Node.js+%C2%B7+PostgreSQL;Landing+pages%2C+SaaS%2C+CRMs%2C+e-commerce+%26+more" alt="Typing SVG" />
-</a>
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-ianne--portfolio.vercel.app-24283b?style=for-the-badge&logo=vercel&logoColor=7AA2F7&labelColor=1a1b27)](https://ianne-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-24283b?style=for-the-badge&logo=linkedin&logoColor=7AA2F7&labelColor=1a1b27)](https://linkedin.com/in/ianne-carl-bulilan-321421349)
-[![Email](https://img.shields.io/badge/Email-Say%20hi-24283b?style=for-the-badge&logo=gmail&logoColor=7AA2F7&labelColor=1a1b27)](mailto:bulilaniannecarl@gmail.com)
-![Open to Work](https://img.shields.io/badge/Open%20to-Work%20%26%20Recruitment-7AA2F7?style=for-the-badge&labelColor=1a1b27)
-![Profile Views](https://komarev.com/ghpvc/?username=Gladiarn&label=Profile+Views&color=24283b&style=for-the-badge&labelColor=1a1b27)
-
-</div>
-
-<!-- ═══════════════ ABOUT ═══════════════ -->
-
-## `~/about`
-
-```ts
-const ianne = {
-  name: "Ianne Carl Z. Bulilan",
-  role: "Full-Stack Web Developer",
-  currently: "Full-Stack Developer @ KPVE (Remote)",
-  based: "Leyte, Philippines",
-  education: "BSIT — AMA Computer Learning Center (2025)",
-  strongestAt: ["Next.js", "Tailwind CSS", "Node.js"],
-  database: ["PostgreSQL", "Supabase", "Neon", "Prisma", "MongoDB"],
-  workflow: "Figma → Frontend → Backend + DB → Vercel",
-  exploring: ["Agentic AI orchestration", "CLI-driven AI workflows", "Backend optimization"],
-  openTo: ["Recruitment & full-time roles", "Freelance projects", "Collaborations"],
-} as const;
-```
-
-<!-- ═══════════════ WORKFLOW ═══════════════ -->
-
-## `~/workflow`
-
-I take a website from **design file to production** on my own: pixel-accurate frontend, the API behind it, the database underneath, and the deploy.
-
-```mermaid
-flowchart LR
-    A["Figma<br/>Design"] --> B["Frontend<br/>Next.js · Tailwind · shadcn/ui"]
-    B --> C["Backend<br/>Node.js · Express · Django · Laravel"]
-    C --> D["Database<br/>PostgreSQL · Supabase · Neon · Prisma"]
-    D --> E["Deploy<br/>Vercel · CI/CD"]
-```
-
-**Websites I build:** landing pages · e-commerce & storefronts · portfolios · SaaS apps · CRMs & dashboards · booking systems · AI chatbots · component libraries
-
-<!-- ═══════════════ PROJECTS ═══════════════ -->
-
-## `~/projects`
-
-| Project | What it does | Built with | Links |
-|---|---|---|---|
-| **SnapJSX** | Minimalist, high-performance JSX component library with a root-level architecture built for rapid integration and agentic enablement | `Next.js` `TypeScript` `Tailwind` `CLI AI Agents` | [Live](https://snapjsx.vercel.app/) |
-| **BriefCV** | AI-powered resume builder that optimizes profiles for ATS alignment and market impact; dual-token JWT rotation with Google OAuth | `Next.js 15` `TypeScript` `MongoDB` `Zustand` `OAuth 2.0` | [Live](https://briefcv.vercel.app/) |
-| **Theebug** | VS Code-styled, drag-and-drop coding game — fix broken code across 7 language tracks with difficulty-weighted scoring, a GitHub OAuth leaderboard and an AI mascot coach | `Full-Stack` `GitHub OAuth` `AI Coaching` | [Live](https://www.theebug.cc.cd/) |
-| **TourConnect** | Travel platform with hotel booking, role-based access, JWT (access + refresh) and an AI chatbot *(Capstone)* | `Next.js` `Express` `MongoDB` `shadcn/ui` | — |
-| **TourVan** | Cloud-based van tour booking with real-time GPS, seat tracking and location autocomplete *(Capstone)* | `React` `Node.js` `MongoDB` `Leaflet.js` | — |
-| **DepHelp** | Assessment platform with Google auth, dynamic questionnaires, real-time scoring and personalized results | `Next.js` `NextAuth` `Mongoose` `Tailwind` | — |
-
-<!-- ═══════════════ CURRENT ═══════════════ -->
-
-## `~/now`
-
-**Full-Stack Developer @ KPVE** · *Jun 2026 – Present · Remote*
-
-Building a large multi-portal web platform (Laravel + Next.js on Vercel & Railway), plus client landing pages and CRMs on the side.
-
-| Area | What I've shipped |
-|---|---|
-| **Payments** | Booking flows with **Stripe** and automated **Zoom** meeting provisioning |
-| **Integrations** | Government and third-party **API integrations** (Medicare Online, PRODA) |
-| **Dashboard** | Staff CRM with PDF generation and a **WebSocket** real-time messenger |
-| **Security** | Role-based access control across **4 portals**: patient · doctor · staff · admin |
-
-<!-- ═══════════════ TIMELINE ═══════════════ -->
-
-## `~/timeline`
-
-```mermaid
-timeline
-    title Career Timeline
-    2020 – 2022 : BSIT at University of Rizal System Binangonan
-    2025 : Graduated BSIT — AMA Computer Learning Center
-         : Frontend Developer Intern — Symphonics Co. Ltd.
-         : Freelance Full-Stack Developer
-    2026 : Independent Contractor — AI-integrated web apps
-         : Shipped SnapJSX and BriefCV
-         : Full-Stack Developer — KPVE
-```
-
-<details>
-<summary><b>Experience details</b></summary>
-<br/>
-
-**Full-Stack Developer — KPVE** · 06/2026 – Present
-Multi-portal platform with Stripe + Zoom booking, third-party API integrations, staff CRM, real-time messaging, 4-portal RBAC, and client landing pages and CRMs.
-
-**Full-Stack Developer — Independent Contractor** · 01/2026 – 07/2026
-E-commerce sites, portfolios, CRMs and storefronts with React, Next.js, Django and Tailwind. Automated complex system logic with Claude Code, the Gemini API and CLI-driven AI workflows. Figma → Vercel deployments with strict CI/CD.
-
-**Freelance Full-Stack Developer — Self-Employed** · 03/2025 – 01/2026
-Built SnapJSX, TourConnect and thrift-shop / e-commerce systems. Shipped AI chatbots and agentic support systems on the Gemini API. Full SDLC from Figma to production with PR reviews.
-
-**Frontend Developer Intern — Symphonics Co. Ltd.** · 02/2025 – 05/2025
-Figma-to-Next.js conversion with Tailwind, shadcn/ui and TypeScript; Server Components performance work; Scrum team; REST API integration.
-
-</details>
-
-<!-- ═══════════════ STACK ═══════════════ -->
-
-## `~/stack`
-
-**Frontend & Design** &nbsp;·&nbsp; *strongest: Next.js, Tailwind CSS*
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma&theme=dark" alt="Frontend" />
-<br/>
-<sub>Zustand · shadcn/ui · Framer Motion · TanStack Query · Radix UI · Component-Driven Development</sub>
-
-**Backend & APIs** &nbsp;·&nbsp; *strongest: Node.js*
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,laravel,php,cs,dotnet,graphql&theme=dark" alt="Backend" />
-<br/>
-<sub>REST · GraphQL · JWT auth · WebSockets · Entity Framework</sub>
-
-**Databases & ORMs**
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,supabase,prisma,mongodb,mysql,sqlite,redis&theme=dark" alt="Databases" />
-<br/>
-<sub>PostgreSQL · Supabase · Neon · Prisma ORM · Django ORM · Schema design</sub>
-
-**DevOps & Tooling**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,vercel,postman,vscode&theme=dark" alt="Tools" />
-<br/>
-<sub>CI/CD pipelines · Claude Code · CLI-based AI agents · Agentic enablement tooling</sub>
-
-<!-- ═══════════════ AWARDS ═══════════════ -->
-
-## `~/awards`
-
-- **Best in HTML5 & CSS**
-- **Best in Web Development**
-- **Best Capstone Presenter** — *Cloud-based Van Travel and Tours Tracking and Monitoring System*
-
-<!-- ═══════════════ STATS ═══════════════ -->
-
-## `~/stats`
-
-<!--
-  These cards are generated by the GitHub Action in
-  .github/workflows/profile-summary-cards.yml and saved INSIDE this repo,
-  so they can't break from a third-party API outage or rate limit.
-  Run the workflow once (Actions tab → Run workflow) to create them.
--->
-
-<!-- <p align="center">
-  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" width="48%" />
-  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" width="48%" />
-</p> -->
-
-<!-- <p align="center">
-  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per Language" width="48%" />
-  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Used Languages" width="48%" />
-</p> -->
+<!-- Styled after ianne-portfolio.vercel.app: an editor on the left, the rendered page on the right. -->
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Gladiarn&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
+  <a href="https://ianne-portfolio.vercel.app/">
+    <img src="./asset/header.svg" alt="Ianne Carl Bulilan, Full-Stack Web Developer. Open to full-stack roles." width="100%" />
+  </a>
 </p>
 
-<!-- ═══════════════ CONNECT ═══════════════ -->
+<p align="center">
+  <a href="https://ianne-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-ianne--portfolio.vercel.app-14171c?style=flat-square&logo=vercel&logoColor=82b6ff&labelColor=0f1216" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/ianne-carl-bulilan-321421349/"><img src="https://img.shields.io/badge/LinkedIn-Ianne%20Carl-14171c?style=flat-square&logo=linkedin&logoColor=82b6ff&labelColor=0f1216" alt="LinkedIn" /></a>
+  <a href="https://t.me/IanneTG"><img src="https://img.shields.io/badge/Telegram-@IanneTG-14171c?style=flat-square&logo=telegram&logoColor=82b6ff&labelColor=0f1216" alt="Telegram" /></a>
+  <a href="https://cal.com/ianne-carl-bulilan-gladiarn"><img src="https://img.shields.io/badge/Schedule-a%20call-14171c?style=flat-square&logo=googlecalendar&logoColor=82b6ff&labelColor=0f1216" alt="Schedule a call" /></a>
+  <a href="mailto:bulilaniannecarl@gmail.com"><img src="https://img.shields.io/badge/Email-bulilaniannecarl%40gmail.com-14171c?style=flat-square&logo=gmail&logoColor=82b6ff&labelColor=0f1216" alt="Email" /></a>
+</p>
 
-## `~/open-to-work`
+<br/>
 
-I'm open to **recruitment and hiring conversations** for full-stack, frontend-leaning or Next.js/Node.js roles, and also take on **freelance projects** and **collaborations**.
+<sub><code>● about.md</code></sub>
 
-| Best way to reach me | |
-|---|---|
+## About
+
+I build full-stack web apps with **Next.js**, **Node.js (Express)**, and **PostgreSQL**. At **KPVE** (Jun to Nov 2026) I built **DOC On Call**, an Australian telehealth platform with **Stripe** payments, **Zoom** consults, and **Medicare/PRODA** claims, plus the **SALT Hotel CRM** and an offline-first **restaurant POS**.
+
+Before that I shipped **15+ web apps** as an independent contractor, from **Figma** to **Vercel**: stores with Stripe checkout, QR restaurant ordering, inventory, booking with live GPS, and AI tools.
+
+My workflow runs on **Claude Code**:
+
+```sh
+➜ workflow --steps
+brainstorm → plan → confirm → build test-first → verify
+```
+
+Right now I'm learning **Docker**, **automation** (n8n), and **Android** development.
+
+<br/>
+
+<sub><code>● projects/</code></sub>
+
+## Projects
+
+| Project | What it is | Built with | Links |
+| --- | --- | --- | --- |
+| **Scentique** | Perfume store with a "find your scent" quiz, Stripe checkout, and an admin CRM for revenue, orders and low stock. Turborepo monorepo with Zod schemas shared between frontend and API. | `Next.js` `Express` `Prisma` `PostgreSQL` `Stripe` `Vitest` `Playwright` | [Code](https://github.com/Gladiarn/Scentique-Monorepo) |
+| **Kasumi-an** | English/Japanese brand site with hand-built canvas animations, ink-cloud page transitions, a waitlist, and a private admin studio. Express API with Helmet, Zod and pino, 670+ tests. | `Next.js` `Express` `Zod` `Vitest` `Supertest` `Vercel Services` | [Live](https://kasumi-an.cc.cd) |
+| **BriefCV** | AI resume builder that rewrites and scores resumes against ATS filters with the Gemini API. Drag-and-drop editor, score charts, and pixel-accurate PDF export. | `Next.js` `Gemini API` `Puppeteer` `Recharts` `Google OAuth` `JWT` | [Live](https://briefcv.vercel.app/) · [Code](https://github.com/Gladiarn/briefcv) |
+| **Theebug** | VS Code-styled game where players drag and drop to fix broken code across 7 languages, coached by a 3D mascot, with a GitHub sign-in leaderboard. | `React DnD` `React Three Fiber` `Auth.js` `MongoDB` | [Live](https://www.theebug.cc.cd) · [Code](https://github.com/Gladiarn/Theebug) |
+
+More, with screenshots and videos: **[ianne-portfolio.vercel.app/work](https://ianne-portfolio.vercel.app/work)**
+
+<br/>
+
+<sub><code>● experience.log</code></sub>
+
+## Experience
+
+**Full-Stack Web Developer**, KPVE · Remote · <sub>`Jun 2026 - Nov 2026`</sub>
+- **DOC On Call:** Australian telehealth platform (**Laravel**, **Next.js**, **MySQL**) with **Stripe** payments, **Zoom** video consults, **Medicare/PRODA** claims, and a 4-portal clinical CRM with real-time chat via **WebSockets** (Laravel Reverb).
+- **SALT Hotel CRM:** management system for a three-hotel group covering front desk, housekeeping, finance, and stock (**Next.js**, **Express**, **Prisma**, **PostgreSQL**, on **Vercel** + **Railway**).
+- **Restaurant POS:** tablet POS and menu system for Hikka Regent (**Next.js**) that **works offline** (Service Workers, IndexedDB) and syncs when back online.
+- **Hotel websites:** Hikka Regent site with a direct booking flow (**Next.js** + **Supabase**), plus other client landing pages.
+
+**Full-Stack Developer (Independent Contractor)**, Self-Employed (client work under NDA) · Remote · <sub>`Mar 2025 - May 2026`</sub>
+- Built **15+ web apps** from **Figma** to **Vercel**: e-commerce, restaurant ordering, inventory, booking, and AI tools.
+- **E-commerce and CRMs:** stores with **Stripe** checkout and admin dashboards for orders and stock (**Next.js**, **Express**, **Prisma**, **PostgreSQL**).
+- **Business systems:** QR restaurant ordering with a kitchen display, multi-warehouse inventory (**Express**, **Prisma**, **Supabase**; **Django**, **Chart.js**), and booking apps with **live GPS tracking** (React, Express, MongoDB, Leaflet).
+- **AI tools:** AI resume writer with the **Gemini API**, **MongoDB**, and **PDF export** (Puppeteer).
+
+**Frontend Developer (Intern)**, Symphonics Co. Ltd. · Tacloban City · <sub>`Feb 2025 - May 2025`</sub>
+- Turned **Figma** designs into responsive **Next.js** pages with **Tailwind CSS**, **shadcn/ui**, and **TypeScript**.
+- Connected **REST APIs**, used **Server Components** to speed up pages, and worked in **Agile (Scrum)** with code reviews on every PR.
+
+<br/>
+
+<sub><code>● package.json</code></sub>
+
+## Tech stack
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,threejs,html,css,figma&theme=dark&perline=9" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, Three.js, HTML5, CSS3, Figma" />
+<br/>
+<sub>shadcn/ui · Material UI · Zustand · Redux · React Hook Form · Zod · Framer Motion · PWA (offline-first)</sub>
+
+**Backend and APIs**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,django,cs&theme=dark" alt="Node.js, Express, PHP, Laravel, Django, C#" />
+<br/>
+<sub>REST APIs · WebSockets (Laravel Reverb) · Authentication (JWT, OAuth, NextAuth) · Role-based access control</sub>
+
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,prisma&theme=dark" alt="PostgreSQL, MySQL, MongoDB, Supabase, Prisma" />
+<br/>
+<sub>Neon · Mongoose</sub>
+
+**Integrations and AI**
+<br/>
+<sub>Stripe · Zoom · Twilio · SendGrid · Xero · Medicare/PRODA APIs · Google Gemini API · Claude Code</sub>
+
+**Testing and DevOps**
+<br/>
+<img src="https://skillicons.dev/icons?i=vitest,docker,vercel,githubactions,git,github,postman&theme=dark" alt="Vitest, Docker, Vercel, GitHub Actions, Git, GitHub, Postman" />
+<br/>
+<sub>Playwright · PHPUnit · Sentry · Railway · Agile (Scrum)</sub>
+
+<br/>
+
+<sub><code>● education.md</code></sub>
+
+## Education
+
+**BS Information Technology**, AMA Computer Learning Center · Tacloban City, Leyte · <sub>`2023 - Jul 2025`</sub>
+- Best in **HTML5 & CSS** and Best in **Web Development**
+- Best Capstone Presenter: *Cloud-based Van Travel and Tours Tracking and Monitoring System of Grand Tours Tacloban City*
+
+**BS Information Technology**, University of Rizal System Binangonan · Binangonan, Rizal · <sub>`Aug 2020 - Dec 2022`</sub>
+- Dean's Lister (first year)
+
+<br/>
+
+<sub><code>● github.com/Gladiarn</code></sub>
+
+## GitHub activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Gladiarn&background=14171c&border=232831&stroke=232831&ring=82b6ff&fire=82b6ff&currStreakNum=e8eaed&sideNums=e8eaed&currStreakLabel=82b6ff&sideLabels=a0a7b1&dates=6c7585" alt="GitHub streak" width="70%" />
+</p>
+
+<br/>
+
+<sub><code>● contact.ts</code></sub>
+
+## Contact
+
+Open to **full-stack roles**, freelance projects and collaborations. The quickest way to reach me is email or Telegram.
+
+| | |
+| --- | --- |
 | Email | [bulilaniannecarl@gmail.com](mailto:bulilaniannecarl@gmail.com) |
-| LinkedIn | [ianne-carl-bulilan](https://linkedin.com/in/ianne-carl-bulilan-321421349) |
+| Telegram | [@IanneTG](https://t.me/IanneTG) |
+| LinkedIn | [ianne-carl-bulilan](https://www.linkedin.com/in/ianne-carl-bulilan-321421349/) |
+| Schedule a call | [cal.com/ianne-carl-bulilan-gladiarn](https://cal.com/ianne-carl-bulilan-gladiarn) |
 | Portfolio | [ianne-portfolio.vercel.app](https://ianne-portfolio.vercel.app/) |
 
-## `~/contact`
+<br/>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ianne-carl-bulilan-321421349"><img src="https://img.shields.io/badge/-LinkedIn-24283b?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" alt="LinkedIn" /></a>
-  <a href="https://github.com/Gladiarn"><img src="https://img.shields.io/badge/-GitHub-24283b?style=for-the-badge&logo=github&logoColor=7AA2F7" alt="GitHub" /></a>
-  <a href="https://x.com/@IanneTG"><img src="https://img.shields.io/badge/-X-24283b?style=for-the-badge&logo=x&logoColor=7AA2F7" alt="X" /></a>
-  <a href="https://facebook.com/ianne.carl"><img src="https://img.shields.io/badge/-Facebook-24283b?style=for-the-badge&logo=facebook&logoColor=7AA2F7" alt="Facebook" /></a>
-  <a href="mailto:bulilaniannecarl@gmail.com"><img src="https://img.shields.io/badge/-Email-24283b?style=for-the-badge&logo=gmail&logoColor=7AA2F7" alt="Email" /></a>
+  <a href="https://ianne-portfolio.vercel.app/"><img src="./asset/footer.svg" alt="&lt;/Portfolio&gt;" width="100%" /></a>
 </p>
-
-<p align="center"><i>Ask me about full-stack Next.js apps, Tailwind design systems, Node.js backends, or Postgres setups with Supabase, Neon and Prisma.</i></p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=110&section=footer" alt="footer" width="100%" />

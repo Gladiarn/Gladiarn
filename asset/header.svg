@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-label="Ianne Carl Bulilan, Full-Stack Web Developer">
+  <style>
+    .mono{font-family:"Geist Mono","SF Mono",ui-monospace,Menlo,Consolas,monospace}
+    .sans{font-family:Geist,"Inter","Segoe UI",-apple-system,Helvetica,Arial,sans-serif}
+    .scr{fill:#f8f9fa}.ink{fill:#121417}.muted{fill:#59606a}.faint{fill:#868d97}.line{stroke:#d9dde2}.acc{fill:#2f66c9}.page{fill:#eef0f2}
+    @media (prefers-color-scheme: dark){
+      .scr{fill:#16191d}.ink{fill:#e8eaed}.muted{fill:#a0a7b1}.faint{fill:#79808a}.line{stroke:#272b31}.acc{fill:#7eaaf0}.page{fill:#111316}
+    }
+    .kw{fill:#e59a7c}.fn{fill:#82b6ff}.tag{fill:#8cc8e6}.attr{fill:#e6c27a}.str{fill:#9fd49a}.punc{fill:#7c8594}.dim{fill:#6c7585}.gut{fill:#4c5463}.fg{fill:#d5dae1}
+    .caret{animation:blink 1.1s steps(1) infinite}
+    @keyframes blink{60%{opacity:0}}
+    @media (prefers-reduced-motion: reduce){.caret{animation:none}}
+  </style>
+  <defs><clipPath id="r"><rect x="1" y="1" width="1278" height="418" rx="14"/></clipPath></defs>
+  <g clip-path="url(#r)">
+    <!-- editor (dark in both themes, like the site's code panels) -->
+    <rect width="1280" height="420" fill="#14171c"/>
+    <rect width="1280" height="40" fill="#0f1216"/>
+    <path d="M0 40.5H1280" stroke="#232831"/>
+    <g class="mono" font-size="13">
+      <path d="M22 15l-5 5 5 5M34 15l5 5-5 5" fill="none" stroke="#6c7585" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+      <rect x="58" y="8" width="150" height="33" fill="#14171c"/>
+      <rect x="58" y="8" width="150" height="2" fill="#82b6ff"/>
+      <text x="76" y="29" class="fg">page.tsx</text>
+      <text x="234" y="29" class="dim">README.md</text>
+    </g>
+    <!-- code -->
+    <g class="mono" font-size="16" xml:space="preserve">
+      <g class="gut" text-anchor="end">
+        <text x="40" y="84">1</text><text x="40" y="112">2</text><text x="40" y="140">3</text><text x="40" y="168">4</text><text x="40" y="196">5</text><text x="40" y="224">6</text><text x="40" y="252">7</text><text x="40" y="280">8</text><text x="40" y="308">9</text><text x="40" y="336">10</text><text x="40" y="364">11</text>
+      </g>
+      <text x="64" y="84" class="dim">// src/app/page.tsx</text>
+      <text x="64" y="112"><tspan class="kw">export default function</tspan><tspan class="fn"> Ianne</tspan><tspan class="punc">() {</tspan></text>
+      <text x="64" y="140"><tspan class="kw">&#160;&#160;return</tspan><tspan class="punc">&#160;(</tspan></text>
+      <text x="64" y="168"><tspan class="punc">&#160;&#160;&#160;&#160;&lt;</tspan><tspan class="tag">Developer</tspan></text>
+      <text x="64" y="196"><tspan class="attr">&#160;&#160;&#160;&#160;&#160;&#160;role</tspan><tspan class="punc">=</tspan><tspan class="str">"Full-Stack Web Developer"</tspan></text>
+      <text x="64" y="224"><tspan class="attr">&#160;&#160;&#160;&#160;&#160;&#160;stack</tspan><tspan class="punc">={[</tspan><tspan class="str">"Next.js"</tspan><tspan class="punc">, </tspan><tspan class="str">"Node.js"</tspan><tspan class="punc">, </tspan><tspan class="str">"PostgreSQL"</tspan><tspan class="punc">]}</tspan></text>
+      <text x="64" y="252"><tspan class="attr">&#160;&#160;&#160;&#160;&#160;&#160;based</tspan><tspan class="punc">=</tspan><tspan class="str">"Leyte, PH"</tspan></text>
+      <text x="64" y="280"><tspan class="attr">&#160;&#160;&#160;&#160;&#160;&#160;workflow</tspan><tspan class="punc">=</tspan><tspan class="str">"Claude Code"</tspan></text>
+      <text x="64" y="308"><tspan class="punc">&#160;&#160;&#160;&#160;/&gt;</tspan></text>
+      <text x="64" y="336"><tspan class="punc">&#160;&#160;);</tspan></text>
+      <text x="64" y="364"><tspan class="punc">}</tspan></text>
+    </g>
+    <!-- screen: what the code renders, follows the viewer's theme -->
+    <rect x="700" y="41" width="580" height="351" class="scr"/>
+    <path d="M700.5 41V392" stroke="#232831"/>
+    <g class="sans">
+      <circle cx="745" cy="108" r="4" class="acc"/>
+      <text x="757" y="113" class="mono faint" font-size="13">ianne-portfolio.vercel.app</text>
+      <text x="740" y="182" class="ink" font-size="48" font-weight="600" letter-spacing="-1.6">Ianne Carl</text>
+      <text x="740" y="236" class="ink" font-size="48" font-weight="600" letter-spacing="-1.6">Bulilan</text>
+      <text x="740" y="280" class="muted" font-size="19">Full-Stack Web Developer</text>
+      <circle cx="745" cy="322" r="5" fill="#3fa66a"/>
+      <circle cx="745" cy="322" r="8.5" fill="#3fa66a" opacity=".2"/>
+      <text x="760" y="327" class="ink" font-size="15">Open to full-stack roles</text>
+      <text x="740" y="356" class="mono faint" font-size="13">Tanauan, Leyte, Philippines · UTC+8</text>
+    </g>
+    <!-- status bar -->
+    <rect y="392" width="1280" height="28" fill="#0f1216"/>
+    <path d="M0 392.5H1280" stroke="#232831"/>
+    <g class="mono" font-size="12.5" xml:space="preserve">
+      <text x="16" y="411" class="fg">⎇ main</text>
+      <text x="92" y="411" class="str">✓ 0 problems</text>
+      <text x="210" y="411" class="fn">README.md</text>
+      <text x="1264" y="411" class="dim" text-anchor="end">Ln 1&#160;&#160;&#160;UTF-8&#160;&#160;&#160;TypeScript JSX</text>
+    </g>
+    <rect x="76" y="350" width="2" height="19" fill="#82b6ff" class="caret"/>
+  </g>
+  <rect x=".5" y=".5" width="1279" height="419" rx="14" fill="none" stroke="#232831"/>
+</svg>
